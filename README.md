@@ -1,4 +1,4 @@
-# Final-Project---SELE_T4_B02
+# Final-Project - SELE_T4_B02
 
 In this project, there is two tasks:
 
