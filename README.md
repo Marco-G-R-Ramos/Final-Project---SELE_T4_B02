@@ -16,4 +16,4 @@ For each of these 3 sections (2 tasks) there will be a README file, which explai
 
 The report for this project is included in a pdf file "Final Project_SELE" where all the information from the README's are joined, more detailed and with figures aiding the information.
 
-Due to the problem with EasyEDA, we added the teacher to the member list of the Schematic/PCB.
+ATTENTION : Due to the problem with EasyEDA, we added the teacher to the member list of the Schematic/PCB.
