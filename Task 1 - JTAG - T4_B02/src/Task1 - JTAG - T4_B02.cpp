@@ -137,10 +137,10 @@ void PINS_LED5(uint8_t set_pins[19]){ //starting on Select-DR-Scan, shifts the D
   }
   //n=19 e n=20 are the byte 2: [16 17 18 19 20 21 22 23] (bits 3 and 4, where 0 is LSB)
   if (set_pins[2] & (1<<4)){
-    Serial.println("LD5 turned ON");
+    Serial.println("LD5 turned OFF");
   }
   else{
-    Serial.println("LD5 turned OFF");
+    Serial.println("LD5 turned ON");
   }
 }
 
